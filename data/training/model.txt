@@ -1,0 +1,21 @@
+{
+    'load-best': False,
+    'top-best': False,
+    'n-submits': 15,
+    'submissions': ['vsp/576666', 'iakesg/576597', 'lsi_uned/575160', 'jlcuad/577119', 'vsp/576670', 'hulat-taskAB/576998', 'iakesg/576606', 'talp/576647', 'hulat-taskAB/576454', 'lsi2_uned/574805', 'vsp/576664', 'jlcuad/577097', 'lsi2_uned/575373', 'abravo/577194', 'vsp/576671'],
+    'binary': True,
+    'weighter': 'f1',
+    'scorer': 'expert',
+    'discrete-expert': True,
+    'validator': 'non-zero'
+}
+
+Reference score: 0.616
+Validation score (Scenario1): 0.647
+Validation score (Scenario2): 0.823
+Validation score (Scenario3): 0.610
+
+Reference score (macro): 0.414
+Validation score (macro) (Scenario1): 0.455
+Validation score (macro) (Scenario2): 0.792
+Validation score (macro) (Scenario3): 0.491
